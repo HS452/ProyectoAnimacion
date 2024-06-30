@@ -170,11 +170,6 @@ p{
   }
   
 
-  li:hover {
-    background-color:rgb(216, 236, 236);
-
-   }
-
   #menu {
     display: none;
   }
